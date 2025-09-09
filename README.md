@@ -7,7 +7,8 @@
 
 
 
-                                                            ![banner](https://github.com/user-attachments/assets/00d1b5bd-e126-468b-be65-a5e3887092b1)
+                                                            <img width="2304" height="768" alt="HDP" src="https://github.com/user-attachments/assets/57487fd3-98a3-4712-a8f9-aef0391c2e0e" />
+
 
 
 
@@ -17,12 +18,7 @@
 This heart disease detection project uses machine learning to predict if a person has heart disease based on medical features like age, blood pressure, cholesterol, and ECG results. It collects user inputs, applies preprocessing (scaling), and runs a trained model to give a clear prediction output. 
 
 # PROJECT NAME 
-### Healthcare Predictive Analytics (Disease Detection): The Heart Diseases Risk Detection
-
-# Heart Disease Detection
-Here’s a simple README for your heart disease detection project on GitHub:
-
-***
+### Healthcare Predictive Analytics (Disease Detection): The Heart Diseases Risk Detectio
 
 # Heart Disease Detection
 
