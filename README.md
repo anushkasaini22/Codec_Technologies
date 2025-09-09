@@ -1,24 +1,15 @@
 
-
-
-
-
-
-
-
-
-                                                            <img width="2304" height="768" alt="HDP" src="https://github.com/user-attachments/assets/57487fd3-98a3-4712-a8f9-aef0391c2e0e" />
-
-
-
-
-
-
 # Codec_Technologies
 This heart disease detection project uses machine learning to predict if a person has heart disease based on medical features like age, blood pressure, cholesterol, and ECG results. It collects user inputs, applies preprocessing (scaling), and runs a trained model to give a clear prediction output. 
 
 # PROJECT NAME 
-### Healthcare Predictive Analytics (Disease Detection): The Heart Diseases Risk Detectio
+### Healthcare Predictive Analytics (Disease Detection): The Heart Diseases Risk Detection
+
+# Image
+
+
+<img width="2304" height="768" alt="Risk_of_heart_disease_banner1" src="https://github.com/user-attachments/assets/2049dbf0-c908-4a5b-89e6-ce1419b017e8" />
+
 
 # Heart Disease Detection
 
